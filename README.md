@@ -1,5 +1,6 @@
 # digit-sum
 dgs
+
 number=int(input(integer))
 
 sum=0
